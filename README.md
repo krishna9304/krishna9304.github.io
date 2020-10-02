@@ -1,7 +1,5 @@
 ## A minimal portfolio template for Developers!
 
-**_IMPORTANT NOTE_**: New fastest version came out, built with React + Gatsby! 🎉🎉🎉 See more: [Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio)
-
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
@@ -11,10 +9,6 @@
 ⚡️ Valid HTML5 & CSS3\
 ⚡️ Optimized with Webpack\
 ⚡️ Well organized documentation
-
-To view a demo example, **[click here](https://simplfolio.netlify.com/)**\
-
----
 
 ## Getting Started 🚀
 
@@ -286,8 +280,6 @@ Once you have done with your setup. You need to put your website online!
 I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
 
 Because this template use Webpack maybe you can get errors during deployment, Please watch my step-by-step video tutorial to successfully upload your Simplefolio Website on Netlify!
-
-**[WATCH NOW MY STEP-BY-STEP TUTORIAL FOR DEPLOYMENT](https://www.youtube.com/watch?v=soaG3GNSxJY)**
 
 ## Technologies used 🛠️
 
